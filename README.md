@@ -2,7 +2,7 @@
 
 I'm a Master of Computer Science student at **Texas A&M University**, focused on **data science and machine learning**. I build ML systems and the full-stack products that put them to work.
 
-**Portfolio:** [afeefshaikh.com](https://afeefshaikh.com) · **LinkedIn:** [in/afeefshaikh](https://www.linkedin.com/in/afeefshaikh/) · **Email:** [afeef.shaikh03@gmail.com](mailto:afeef.shaikh03@gmail.com)
+**Portfolio:** [afeefshaikh.com](https://afeefshaikh.com) · **LinkedIn:** [in/afeefshaikh](https://www.linkedin.com/in/afeefshaikh/) 
 
 Open to **Summer 2027 internships** in data science, machine learning and data engineering.
 
